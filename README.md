@@ -23,7 +23,7 @@ Xcopy "%userprofile%\Saved Games\DCS" "%userprofile%\Saved Games\DCS_BACKUP/" /s
 
 ### Launch the script and configure it
 
-once the backup has been made, we'll be able to launch safety the script, to do that double click on `DCS.ps1`, later you can add a desktop shortcut.
+once the backup has been made, we'll be able to safety launch the script, to do that double click on `DCS.ps1`, later you can add a desktop shortcut.
 
 A Window'll spawn on your screen, click on the `Options` button on the bottom left corner.
 We'll add our DCS game emplacement here, for my part it's:
